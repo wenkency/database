@@ -1,0 +1,2 @@
+include ':app', ':lib-db'
+rootProject.name='DBSample'
